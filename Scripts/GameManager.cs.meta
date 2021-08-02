@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f3c690edc0718724f994c211209d5340
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pCanvasMainMenu: {instanceID: 0}
+  - pCanvasSetup: {instanceID: 0}
+  - pInGame: {instanceID: 0}
+  - pPlayer: {instanceID: 0}
+  - c_MainMenu: {instanceID: 0}
+  - musicMixer: {fileID: -559076921817054903, guid: 7c530afd2fbd7604d859de232de25971, type: 2}
+  - masterMixer: {fileID: 24300002, guid: 7c530afd2fbd7604d859de232de25971, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
